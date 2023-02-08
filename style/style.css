@@ -141,6 +141,7 @@ button{
     .final{
         width: 88%;
         padding: 10px;
+        margin-bottom: 15px;
     }
     .img1{
         height: 95px;
@@ -166,8 +167,5 @@ button{
         width: 24%;
         margin-bottom: 15px;
         margin-top: 15px;
-    }
-     .final{
-        margin-bottom: 15px;
     }
 }
