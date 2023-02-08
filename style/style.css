@@ -158,4 +158,13 @@ button{
     h2{
         margin-bottom: 10px;
     }
+    hr{
+        border: 8px dotted;
+        border-bottom: none;
+        border-left: none;
+        border-right: none;
+        width: 25%;
+        margin-bottom: 15px;
+        margin-top: 15px;
+    }
 }
